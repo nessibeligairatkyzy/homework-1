@@ -1,0 +1,13 @@
+com\narxoz\rpg\factory\CharacterFactory.class
+com\narxoz\rpg\equipment\Longbow.class
+com\narxoz\rpg\equipment\Armor.class
+com\narxoz\rpg\character\Character.class
+com\narxoz\rpg\character\Mage.class
+com\narxoz\rpg\equipment\EnchantedRobes.class
+com\narxoz\rpg\equipment\PlateArmor.class
+com\narxoz\rpg\factory\MagicEquipmentFactory.class
+com\narxoz\rpg\factory\MageFactory.class
+com\narxoz\rpg\character\Warrior.class
+com\narxoz\rpg\factory\EquipmentFactory.class
+com\narxoz\rpg\equipment\IronSword.class
+com\narxoz\rpg\equipment\Weapon.class
